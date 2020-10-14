@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+  <link rel="stylesheet" href="custom.css">
+
+  <title>Kocur - TuKocur a może uKocura?</title>
+</head>
+<body class="dark-theme">
+<div class="container-fluid pb-5">
+  <div class="row frame-top">
+    <div class="col-12">
+      <div class="row mt-4 mb-2">
+        <div class="col text-center">
+          <h1 class="text-center mb-5">Kocur, TuKocur, a może uKocura?</h1>
+          <img src="img/tukocur-kot-512x512.png" height="200px" alt=""/>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-6 p-md-4">
+          <h2 class="text-center">Kim on jest?</h2>
+          <div class="mt-4">
+            <p>
+              Cześć jestem Kocur! Tak naprawdę mam na imię Paweł!
+              Cieszę się, że tutaj jesteś! Terasz masz okazję poznać mnie troszkę lepiej!
+            </p>
+            <p>
+              Kim jestem? To zależy kto pyta. Dla niektórych jestem już boomerem, dla innych
+              millenialsem, a dla jeszcze innych dopiero kaszojadem.
+              W Internetach jestem widoczny od początku istnienia, ale dopiero od niedawna zajmuję
+              się na poważnie prowadzeniem social media (dzięki covid-19) 🤣
+            </p>
+            <p>
+              Skoro już tu jesteś, to chciałbym podziękować Ci za wsparcie, wszystkie lajki, łapki
+              w
+              górę i komentarze. Dzięki takim jak Ty mam motywację
+              i energie do rozwijania kanałów! Bo wiesz, nic nie daje tyle radości jak poczucie, że
+              to, co robię komuś się podoba!
+            </p>
+          </div>
+          <h2 class="mt-4 text-center">Chcesz ze mną pogadać?</h2>
+          <div class="mt-4 text-center">
+            <p>
+              Zagadaj do mnie na <a href="https://www.instagram.com/tukocur/"
+                                    class="btn btn-instagram"><img src="img/instagram-icon.svg"
+                                                                   class="btn-instagram-svg"
+                                                                   width="21px" height="21px"
+                                                                   alt="" /> Instagramie</a>
+              albo <a href="https://discord.gg/DqSqHEc" class="btn btn-discord"><img
+                src="img/discord-icon.svg" class="btn-discord-svg" width="28px" height="28px"
+                alt="" /> Discord</a>
+            </p>
+          </div>
+          <div class="mt-4">
+            <img src="img/kocur-bio_v2.jpg" class="img-fluid" alt="Kocur w różnych pozach">
+          </div>
+        </div>
+
+        <div class="col-6 p-md-4">
+          <h2 class="text-center">Oglądaj LIVE <small>TwitchTV</small></h2>
+          <div class="mt-4 text-center">
+            <p>
+              Na strimach głównie gram w gry, ale kto wie, może kiedyś będą też pogadanki! <br>
+              Kliknij follow, żeby nic Cię nigdy nie ominęło!
+            </p>
+            <a href="https://www.twitch.tv/tukocur" class="btn btn-twitch"><img
+                src="img/twitch-icon.svg" class="btn-twitch-svg" width="21px" height="21px"
+                alt="" /> Otwórz Twitch</a>
+          </div>
+          <div class="mt-4">
+            <a href="https://www.twitch.tv/tukocur">
+              <img src="img/twitch_screenshot.jpg" class="img-fluid"
+                   alt="TuKocur Twitch profile screenshot">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-6 p-md-4">
+
+      <h2 class="text-center">TuKocur <small>Gaming channel</small></h2>
+
+      <div class="yt-promo mt-5 mb-5">
+        <p>
+          <img src="img/tukocur_avatar.jpg" class="rounded-circle float-left mr-5"
+               alt="TuKocur YouTube avatar">
+          Tutaj znajdziesz montaże z gier, challenge, kompilacje, <br>
+          śmieszne momenty, zobaczysz też, jakim jestem dzbanem i często gram jak bot 🤣
+        </p>
+        <div class="row justify-content-center">
+          <div class="col">
+            <ul>
+              <li>Fortnite</li>
+              <li>Among us</li>
+            </ul>
+          </div>
+          <div class="col">
+            <ul>
+              <li>Spellbreak</li>
+              <li>Cokolwiek w co da się grać</li>
+            </ul>
+          </div>
+        </div>
+        <p class="text-center">
+          Obejrzyj najnowszy odcinek poniżej lub <a
+            href="https://www.youtube.com/channel/UCCHph1BphWBmSBXxV0OZl7A?sub_confirmation=1"
+            class="btn btn-youtube"><img src="img/youtube-icon.svg" class="btn-youtube-svg"
+                                         width="21px" height="21px" alt="" /> Otwórz YouTube</a> i
+          oglądaj natywnie!
+        </p>
+      </div>
+
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item"
+                src="https://www.tubebuddy.com/quicknav/latestembed/UCCHph1BphWBmSBXxV0OZl7A"
+                frameborder="0"
+                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+      </div>
+
+    </div>
+    <div class="col-6 p-md-4">
+
+      <h2 class="text-center">uKocura <small>Lifestyle channel</small></h2>
+
+      <div class="yt-promo mt-5 mb-5">
+        <p>
+          <img src="img/ukocura_avatar.jpg" class="rounded-circle float-left mr-5" width="100px"
+               height="auto" alt="TuKocur YouTube avatar">
+          Luźny kanał, ale na poważnie! Lifestylowy kanał, na którym lądują<br>
+          filmy niepasujące do tematyki gier.
+        </p>
+        <div class="row justify-content-center">
+          <div class="col">
+            <ul>
+              <li>Vlogi</li>
+              <li>Podróże</li>
+            </ul>
+          </div>
+          <div class="col">
+            <ul>
+              <li>Poradniki</li>
+              <li>Dziwne sytuacje z życia Kocura</li>
+            </ul>
+          </div>
+        </div>
+        <p class="text-center">
+          Obejrzyj jeden z filmów poniżej lub <a
+            href="https://www.youtube.com/channel/UC9Rdt0j90vNS_X2ujPCaexA?sub_confirmation=1"
+            class="btn btn-youtube"><img src="img/youtube-icon.svg" class="btn-youtube-svg"
+                                         width="21px" height="21px" alt="" /> Otwórz YouTube</a> i
+          oglądaj natywnie!
+        </p>
+      </div>
+
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item"
+                src="https://www.youtube.com/embed/9XeVIn3qIiU"
+                frameborder="0"
+                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+      </div>
+
+    </div>
+  </div>
+  <div class="row justify-content-center mt-5">
+    <div class="col-sm-12 col-md-6 text-center">
+      <h2>Discord U Kocura</h2>
+      <div class="mt-5 mb-2">
+        <p>
+          Wbijaj na serwer <a href="https://discord.gg/DqSqHEc" class="btn btn-discord"><img
+            src="img/discord-icon.svg" class="btn-discord-svg" width="28px" height="28px" alt="" />
+          Discord u Kocura</a> i czuj się jak u siebie!
+        </p>
+        <div class="row justify-content-center">
+          <div class="col-md-7">
+            <ul class="text-left">
+              <li>zapraszaj znajomych</li>
+              <li>zarabiaj serwerową walutę</li>
+              <li>umawiaj się na granie</li>
+              <li>bierz udział w serwerowych eventach</li>
+              <li>rozmawiaj o życiu i o pierdach na luzie i na poważnie!</li>
+            </ul>
+          </div>
+        </div>
+        <img src="img/discord-banner.gif" class="img-fluid" alt="" />
+      </div>
+    </div>
+  </div>
+
+  <div class="row mt-5 justify-content-center">
+    <div class="col-12">
+      <h2 class="text-center">Social Media</h2>
+      <div class="row mt-5 mb-2 justify-content-center">
+
+        <div class="col-sm-2">
+          <div class="card" style="width: 17rem; border-color: #0f1113;">
+            <a href="https://www.instagram.com/tukocur/">
+              <img class="card-img-top" src="img/instagram_profile.jpg"
+                   alt="Instagram profile screenshot">
+            </a>
+            <div class="card-body dark-theme-card">
+              <h5 class="card-title">Instagram</h5>
+              <p class="card-text">Trochę więcej i częściej z mojego życia :)</p>
+              <a href="https://www.instagram.com/tukocur/" class="btn btn-instagram"><img
+                  src="img/instagram-icon.svg" class="btn-instagram-svg" width="21px" height="21px"
+                  alt="" /> Otwórz Instagram</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-2">
+          <div class="card" style="width: 17rem; border-color: #0f1113;">
+            <a href="https://www.tiktok.com/@tukocur">
+              <img class="card-img-top" src="img/tiktok_profile.jpg"
+                   alt="TikTok profile screenshot">
+            </a>
+            <div class="card-body dark-theme-card">
+              <h5 class="card-title">TikTok</h5>
+              <p class="card-text">Same bzdury wyrwane z kontekstu!</p>
+              <a href="https://www.tiktok.com/@tukocur" class="btn btn-tiktok"><img
+                  src="img/tiktok-icon.svg" class="btn-tiktok-svg" width="21px" height="21px"
+                  alt="" /> Otwórz TikTok</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
